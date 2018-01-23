@@ -1,6 +1,6 @@
 @section('sidebar')
   <div class="well">
       <h3>Sidebar</h3>
-      <p>Place Sidebar things here.</p>
+      <p>2018-01-23 Site still under construction.<br> Things may or may not work.</p>
       @show
   </div>

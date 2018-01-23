@@ -4,6 +4,8 @@
   <h1> Contact </h1>
   {!! Form::open(['url' => 'contact/submit']) !!}
 
+	{{ csrf_field() }}
+
     <div class="form-group">
       {{Form::label('name', 'Name')}}
       {{Form::text('name', '', ['class' => 'form-control', 'placeholder' => 'Enter Name'])}}
