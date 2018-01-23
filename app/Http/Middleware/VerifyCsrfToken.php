@@ -12,6 +12,7 @@ class VerifyCsrfToken extends Middleware
      * @var array
      */
     protected $except = [
-        //
+        'http://evecalc.net/contact/*',
+	'http://h2759962.stratoserver.net/contact/*'
     ];
 }
