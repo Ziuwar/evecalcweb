@@ -2,7 +2,10 @@
 
 @section('content')
   <h1> Contact </h1>
-  {!! Form::open(['url' => 'contact/submit']) !!}
+
+  <p>Name and E-Mail Address are mandatory. Your data shall not leave my server.</p>
+
+  {!! Form::open(array('url' => 'http://evecalc.net/contact/submit')) !!}
 
     <div class="form-group">
       {{Form::label('name', 'Name')}}

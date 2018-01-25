@@ -23,6 +23,6 @@ class MessagesController extends Controller
     $message->save();
 
     // Redirect
-    return redirect('/')->with('success', 'Message Sent');
+    return redirect('http://evecalc.net')->with('success', 'Message Sent');
     }
 }

@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">EveCalc</a>
+      <a class="navbar-brand">EveCalc</a>
     </div>
 
 
@@ -17,9 +17,9 @@
 	  <li class="dropdown">
 	    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Calc Apps<span class="caret"></span></a>
 	      <ul class="dropdown-menu">
-		<li><a href="#">Lp Calc App</a></li>
-		<li><a href="#">Test01</a></li>
-		<li><a href="#">Test02</a></li>
+		<li><a href="/evelpapp">Lp BP to Item</a></li>
+		<!--<li><a href="#">Test01</a></li>
+		<li><a href="#">Test02</a></li>-->
 	      </ul>
 	  </li>
         <li><a href="/contact">Contact</a></li>

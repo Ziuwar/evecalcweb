@@ -32,7 +32,7 @@
     </div>
 
     <footer id="footer" class="text-center">
-      <p>Copyright 2017 &copy; A.S.</p>
+      <p>Copyright 2018 &copy; ARS-DEV - All EvE related materials are property of CCP Games. See <a href="http://evecalc.net/about">legal notice.</a></p>
     </footer>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
