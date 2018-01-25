@@ -26,7 +26,11 @@
 
         </div>
         <div class="col-md-4 col-lg-4">
+
+          @if(Request::is('/','contact','about'))
               @include('inc.sidebar')
+            @endif
+
         </div>
       </div>
     </div>
