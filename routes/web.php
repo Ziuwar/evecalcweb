@@ -15,9 +15,7 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/evelpapp', function () {
-    return view('evelpapp');
-});
+Route::get('/evelpapp', 'EvelpappController@index');
 
 Route::get('/contact', function () {
     return view('contact');
