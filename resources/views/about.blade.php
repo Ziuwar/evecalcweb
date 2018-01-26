@@ -5,9 +5,9 @@
 
 <h3> Contact </h3>
 <p>Send a ingame mail to: Ziuwar</p>
-<p>Open a ticket on Github: <a href="https://github.com/Ziuwar/evecalcweb/issues">evecalcweb</a></p>
+<p>Open a ticket on Github: <a target="_blank" href="https://github.com/Ziuwar/evecalcweb/issues">evecalcweb</a></p>
 <p>Use the contact page: <a href="http://evecalc.net/contact">Contact</a></p>
-<p>Mention <a href="https://twitter.com/ziuwar">@Ziuwar</a> on twitter.</p>
+<p>Mention <a target="_blank" href="https://twitter.com/ziuwar">@Ziuwar</a> on twitter.</p>
 
 <h3>Known Issues</h3>
 <p>A https certificate is installed but the contact page is not working right when using https :(.</p>

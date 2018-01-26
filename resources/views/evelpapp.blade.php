@@ -3,7 +3,7 @@
 @section('content')
 
   <ul>
-    <?php dd($lp_items); //foreach ($lp_items as $item): ?>
+    <?php echo $lp_items; //foreach ($lp_items as $item): ?>
 
     
 
