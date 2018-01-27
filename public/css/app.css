@@ -8357,3 +8357,11 @@ button.close {
   background: #333;
 }
 
+.table td {
+  text-align: center;
+}
+
+.table th {
+  text-align: center;
+}
+
