@@ -7,7 +7,7 @@
     <p>This app assumes you by the blueprint for an faction item in the LP Store
       and produce the item yourself. It is ordered by the efficiency, so the best
       buck per loyalty point. It factors in the mineral cost and i want to add
-      player tax in the future.</p>
+      player tax in the future. All prices from Jita market.
 </div>
 
 <table class="table table-striped">

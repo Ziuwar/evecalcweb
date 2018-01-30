@@ -16,7 +16,7 @@ class PiPrice extends Migration
         Schema::create('pi_prices', function (Blueprint $table) {
             $table->integer('uid')->primary();
 	    $table->string('name',100);
-	    $table->integer('price');
+	    $table->float('price');
 	    $table->integer('tier');
             $table->timestamps();
         });

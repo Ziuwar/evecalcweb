@@ -16,6 +16,8 @@ Route::get('/', function () {
 });
 
 Route::get('/evelpapp', 'EvelpappController@index');
+Route::get('/minerals', 'MineralsController@index');
+Route::get('/pitiertwo','PiTierTwoController@index');
 
 Route::get('/contact', function () {
     return view('contact');
