@@ -18,8 +18,8 @@
 	    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Calc Apps<span class="caret"></span></a>
 	      <ul class="dropdown-menu">
 		<li><a href="/evelpapp">Lp BP to Item</a></li>
-		<li><a href="/minerals">Mineral Price</a></li>
-		<!--<li><a href="#">Test02</a></li>-->
+		<li><a href="/pitiertwo">PI Tier 2 Items</a></li>
+		<li><a href="/minerals">Mineral Prices</a></li>
 	      </ul>
 	  </li>
         <li><a href="/contact">Contact</a></li>
