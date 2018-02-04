@@ -28,3 +28,7 @@ Route::get('/about', function () {
 });
 
 Route::post('contact/submit', 'MessagesController@submit');
+
+Route::get('/google1dfc9aa4919ecec9.html', function (){
+    return File::get(public_path() . '/google/google1dfc9aa4919ecec9.html');
+});
