@@ -1,5 +1,5 @@
 @section('topbar')
-<nav class="navbar navbar-inverse">
+<nav id="nav" class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">

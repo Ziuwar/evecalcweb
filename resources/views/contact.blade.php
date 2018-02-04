@@ -1,9 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
-  <h1> Contact </h1>
 
+<div class="well">
+
+  <h1> Contact </h1>
   <p>Name and E-Mail Address are mandatory. Your data shall not leave my server.</p>
+
+</div>
 
   {!! Form::open(array('url' => 'http://evecalc.net/contact/submit')) !!}
 
