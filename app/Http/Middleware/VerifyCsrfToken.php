@@ -9,10 +9,9 @@ class VerifyCsrfToken extends Middleware
     /**
      * The URIs that should be excluded from CSRF verification.
      *
-     * @var array
+     * @var array<int, string>
      */
     protected $except = [
-        'http://evecalc.net/contact/*',
-	'http://h2759962.stratoserver.net/contact/*'
+        //
     ];
 }
